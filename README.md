@@ -186,6 +186,6 @@ ListView.builder(
 
 ## Issues and feedback
 
-For issues, please report [here](https://github.com/badjio/skeletons/issues). Contributions are welcome.
+For issues, please report [here](https://github.com/Alfaizkhan/skeletons_plus/issues). Contributions are welcome.
 
 
