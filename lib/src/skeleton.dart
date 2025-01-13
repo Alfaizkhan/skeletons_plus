@@ -1,7 +1,7 @@
 part of 'widgets.dart';
 
-class Skeleton extends StatefulWidget {
-  const Skeleton({
+class SkeletonPlus extends StatefulWidget {
+  const SkeletonPlus({
     super.key,
     required this.isLoading,
     required this.skeleton,
@@ -24,7 +24,7 @@ class Skeleton extends StatefulWidget {
   SkeletonState createState() => SkeletonState();
 }
 
-class SkeletonState extends State<Skeleton> {
+class SkeletonState extends State<SkeletonPlus> {
   @override
   Widget build(BuildContext context) {
     return AnimatedSwitcher(

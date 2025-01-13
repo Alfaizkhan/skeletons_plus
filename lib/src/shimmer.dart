@@ -58,12 +58,12 @@ class ShimmerState extends State<ShimmerWidget>
   LinearGradient get _lightGradient =>
       widget.shimmerGradient ??
       SkeletonTheme.of(context)?.shimmerGradient ??
-      SHIMMER_GRADIENT;
+          shimmerGradient;
 
   LinearGradient get _darkGradient =>
       widget.darkShimmerGradient ??
       SkeletonTheme.of(context)?.darkShimmerGradient ??
-      DARK_SHIMMER_GRADIENT;
+      darkShimmerGradient;
 
   LinearGradient get currentGradient => LinearGradient(
         colors: gradient.colors,

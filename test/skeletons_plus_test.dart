@@ -154,7 +154,7 @@ void main() {
 
     final ShimmerState shimmerState = tester.state(find.byType(ShimmerWidget));
 
-    expect(shimmerState.gradient, SHIMMER_GRADIENT);
+    expect(shimmerState.gradient, shimmerGradient);
   });
 
   testWidgets('test skeletons dark theme mode', (WidgetTester tester) async {
@@ -178,7 +178,7 @@ void main() {
 
     final ShimmerState shimmerState = tester.state(find.byType(ShimmerWidget));
 
-    expect(shimmerState.gradient, DARK_SHIMMER_GRADIENT);
+    expect(shimmerState.gradient, darkShimmerGradient);
   });
 
   testWidgets('test skeletons custom theme', (WidgetTester tester) async {

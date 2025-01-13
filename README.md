@@ -28,7 +28,7 @@ Can be used by encapsulating the child widget in a Skeleton widget:
 ```dart
 import 'package:skeletons_plus/skeletons_plus.dart';
 
-Skeleton(
+SkeletonPlus(
         isLoading: _isLoading,
         skeleton: SkeletonListView(),
         child: Container(child: Center(child: Text("Content"))),

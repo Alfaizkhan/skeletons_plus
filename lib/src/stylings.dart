@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-const SHIMMER_GRADIENT = LinearGradient(
+const shimmerGradient = LinearGradient(
   colors: [
     Color(0xFFEBEBF4),
     Color(0xFFD6D6E4),
@@ -20,7 +20,7 @@ const SHIMMER_GRADIENT = LinearGradient(
   tileMode: TileMode.clamp,
 );
 
-const DARK_SHIMMER_GRADIENT = LinearGradient(
+const darkShimmerGradient = LinearGradient(
   colors: [
     Color(0xFF222222),
     Color(0xFF242424),

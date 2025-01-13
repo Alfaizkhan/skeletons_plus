@@ -27,7 +27,7 @@ class SkeletonTestWidgetState extends State<SkeletonTestWidget> {
         appBar: AppBar(
           title: Text("Example"),
         ),
-        body: Skeleton(
+        body: SkeletonPlus(
           isLoading: widget.isLoading,
           skeleton: widget.skeleton,
           child: widget.child,
