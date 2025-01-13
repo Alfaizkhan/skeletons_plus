@@ -2,8 +2,9 @@
 
 A Flutter package for building custom skeleton widgets to mimic the page's layout while loading.
 
-## Examples
+<a href="https://www.buymeacoffee.com/imalfaizkhan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
+## Examples
 
 | Items |  | ListView (Default) |
 | ------------- | ------------- | ------------- |
