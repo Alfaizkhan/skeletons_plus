@@ -26,7 +26,7 @@ All examples can be found here [examples](https://github.com/badjio/skeletons/tr
 Can be used by encapsulating the child widget in a Skeleton widget:
 
 ```dart
-import 'package:skeletons/skeletons.dart';
+import 'package:skeletons_plus/skeletons_plus.dart';
 
 Skeleton(
         isLoading: _isLoading,
