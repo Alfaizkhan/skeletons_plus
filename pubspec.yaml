@@ -1,5 +1,5 @@
 name: skeletons_plus
-description: "A new Flutter project."
+description: A Flutter package for building custom skeleton widgets to mimic the page's layout while loading.
 version: 1.0.0
 homepage: https://github.com/Alfaizkhan/skeletons_plus
 
