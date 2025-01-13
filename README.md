@@ -19,7 +19,7 @@ A Flutter package for building custom skeleton widgets to mimic the page's layou
 | ![light_dark_modes](gifs/light_dark_modes.gif)  | ![rtl](gifs/rtl.gif)  | ![custom_shimmer](gifs/custom_shimmer.gif)  |
 
 
-All examples can be found here [examples](https://github.com/badjio/skeletons/tree/master/example/lib/examples).
+All examples can be found here [examples](https://github.com/Alfaizkhan/skeletons_plus/tree/main/example).
 
 
 ## How To Use
